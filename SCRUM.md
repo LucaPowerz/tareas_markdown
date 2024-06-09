@@ -39,7 +39,7 @@ El proceso de desarrollo SCRUM se divide en los siguientes pasos:
 ## Videos y Tablas
 
 ### Video Explicativo de SCRUM
-[![Video Explicativo de SCRUM](https://www.youtube.com/watch?v=HhC75IonpOU)]
+[![Video Explicativo de SCRUM](https://www.escueladenegociosydireccion.com/revista/wp-content/uploads/2022/07/Scrum-Process_Articulo_Semana-32_2022_1-scaled.jpg)](https://www.youtube.com/watch?v=HhC75IonpOU)
 
 ### Roles en SCRUM
 | Rol              | Descripción                                                                 |

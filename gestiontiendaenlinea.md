@@ -43,7 +43,3 @@ El sistema de gestión de tienda en línea permite a los clientes realizar compr
     2. El administrador accede al panel de administración de pedidos.
     3. El administrador visualiza una lista de pedidos pendientes.
     4. El administrador marca los pedidos como procesados una vez que se han completado.
-
-## Diagrama de Casos de Uso
-
-El diagrama de casos de uso se adjunta en un archivo de imagen llamado "casos_de_uso_gestion_tienda.png".

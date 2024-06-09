@@ -49,7 +49,3 @@ La aplicación de red social permite a los usuarios interactuar entre sí compar
     1. El administrador accede al panel de moderación de contenido.
     2. El administrador visualiza una lista de publicaciones reportadas por los usuarios.
     3. El administrador puede eliminar o marcar las publicaciones como inapropiadas según las políticas de la red social.
-
-## Diagrama de Casos de Uso
-
-El diagrama de casos de uso se adjunta en un archivo de imagen llamado "casos_de_uso_red_social.png".
